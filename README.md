@@ -39,7 +39,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the next step on your own._
 
 <!-- Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step. -->
-
+.github/steps/5-merge-your-pull-request.md
 <footer>
 
 <!--
